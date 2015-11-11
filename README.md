@@ -14,6 +14,12 @@ and sharing in his blogpost how to extend Umbraco 7 with custom icons: http://cr
 Known issue
 There seems to be issues with Firefox to display the added font-icons (not the core icons). In Chrome and Internet Explorer it isn't a problem, so maybe Firefox has an issue with loading the css file and/or the font-files.
 
+**1.1.1**
+* Updated to Material Design Iconic Font Version 2.2.0
+* Bugfixes in some icons
+* Change of ```icon-gmd-stack-overflow``` to ```icon-gmd-stackoverflow```
+* 885 icons (33 new icons)
+
 **1.1.0**
 * Updated to Material Design Iconic Font Version 2.1.2, which contains new icons and has support for WOFF2.
 * 852 icons
